@@ -1,0 +1,5 @@
+Git and GitHub serve different purposes: Git runs locally on your computer to track your project history even without the internet, while GitHub is a website that hosts the shared copy for your team
+The staging area acts like a packing list: Running git add lets you choose specific modified files for the next checkpoint instead of snapshotting every messy draft in your folder
+Saving an editor file is not a checkpoint: Git only records history when you run git commit to seal staged changes with a descriptive message
+git pull synchronizes teammate work: When GitHub has commits that your computer does not have yet, git pull fetches those updates into your local files before you push new work
+gitignore prevents sensitive leaks: Adding files like passwords, .env, or build folders to .gitignore ensures junk and secrets never get pushed to a public repository
