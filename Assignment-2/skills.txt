@@ -1,1 +1,5 @@
-
+SQL
+Python
+GitHub
+HTML
+CSS
